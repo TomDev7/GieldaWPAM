@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Monitor Giełdy</string>
+
+    <string name="pref_stocks_initialized_key" translatable="false">initialized</string>
+    <string name="pref_stocks_key" translatable="false">stocks</string>
+    <string name="pref_display_mode_key" translatable="false">displayMode</string>
+    <string name="pref_display_mode_default" translatable="false">@string/pref_display_mode_percentage_key</string>
+    <string name="pref_display_mode_absolute_key" translatable="false">absolute</string>
+    <string name="pref_display_mode_percentage_key" translatable="false">percentage</string>
+
+    <string name="default_stocks_apple" translatable="false">AAPL</string>
+    <string name="default_stocks_facebook" translatable="false">FB</string>
+
+    <string name="action_change_units" translatable="false">@string/pref_display_mode_key</string>
+    <string name="history_chart_description" translatable="true">Wykres historii cen akcji</string>
+    <string name="error" translatable="true">Komunikat błędu</string>
+    <string name="stock_price" translatable="true">Cena akcji</string>
+    <string name="stock_change" translatable="true">Ostatnia zmiana ceny akcji</string>
+    <string name="stock_history" translatable="true">Historia akcji</string>
+    <string name="stock_doesnot_exist" translatable="true">Podany symbol spółki nie istnieje!</string>
+
+    <string name="dialog_title" translatable="true">Dodaj spółkę</string>
+    <string name="dialog_hint" translatable="true">Symbol (np. GOOG)</string>
+    <string name="dialog_cancel" translatable="true">Anuluj</string>
+    <string name="dialog_add" translatable="true">Dodaj</string>
+    <string name="dialog_addbutton_description" translatable="true">Podaj symbol spółki, którą chcesz obserwować</string>
+
+    <string name="error_no_network" translatable="true">Brak połączenia z siecią. Wyniki zostaną załadowane po odzyskaniu połączenia.</string>
+    <string name="error_no_stocks" translatable="true">Brak obserwowanych spółek. Naciśnij przycisk plusa by dodać spółkę do obserwowanych.</string>
+
+    <string name="toast_stock_added_no_connectivity" translatable="true">Spółka %s dodana. Dane zostaną odświeżone po odzyskaniu połączenia z siecią.</string>
+    <string name="toast_no_connectivity" translatable="true">Dane zostaną odświeżone po odzyskaniu połączenia z siecią.</string>
+
+    <string name="title_widget_today" translatable="true">Dzisiejsze kursy akcji</string>
+    <string name="widget_list_description" translatable="true">Lista spółek</string>
+    <string name="widget_nodata" translatable="true">Brak dostępnych danych</string>
+    <string name="widget_nosymbol" translatable="true">Brak symbolu</string>
+    <string name="widget_noprice" translatable="true">Brak ceny</string>
+    <string name="widget_nochangedata" translatable="true">Brak danych o zmianie kursu</string>
+
+</resources>
