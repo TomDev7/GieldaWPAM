@@ -1,5 +1,7 @@
 # Stock Monitor Android App
+<img align="right" width="300" src="https://github.com/user-attachments/assets/b58159e9-be29-4f0c-bfc8-2a6480b80610" width="700" alt="Header image"/>
 This Android application tracks stock quotes and price changes in real-time. It lets users build a personal watchlist, monitor percentage changes, and explore historical price trends through an intuitive UI and home screen widgets.
+<br clear="all" />
 
 ## ✨ Features
 - Add, remove, and manage a personal stock watchlist.
